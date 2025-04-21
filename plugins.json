@@ -5,8 +5,8 @@
   },
 
   {
-    "name": "sahan_Plugin",
-    "entry": "./plugins/sahan_plugin/plugin.js"
+    "name": "Dinuka_Plugin",
+    "entry": "./plugins/Dinuka_plugin/plugin.js"
   },
 
   {

@@ -1,1 +1,0 @@
-{"version":3,"sources":["plugin.js"],"names":["module","exports","run"],"mappings":";;AAAAA,MAAM,CAACC,OAAP,CAAeC,GAAf,GAAqB,YAAM;AACvB,SAAO,wCAAP;AACD,CAFH","sourcesContent":["module.exports.run = () => {\r\n    return \"Hello from sahan_plugin custom plugin!\";\r\n  };"],"file":"plugin.dev.js"}
