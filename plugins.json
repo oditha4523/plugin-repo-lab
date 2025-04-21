@@ -7,5 +7,15 @@
   {
     "name": "sahan_Plugin",
     "entry": "./plugins/sahan_plugin/plugin.js"
+  },
+
+  {
+    "name": "new_plugin",
+    "entry": "./plugins/new-plugin/plugin.js"
+  },
+
+  {
+    "name": "conflicting_plugin",
+    "entry": "./plugins/conflicting-plugin/plugin.js"
   }
 ]
