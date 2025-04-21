@@ -17,5 +17,9 @@
   {
     "name": "conflicting_plugin",
     "entry": "./plugins/conflicting-plugin/plugin.js"
+  },
+  {
+    "name": "conflicting_plugin",
+    "entry": "./plugins/conflicting-plugin/plugin.js"
   }
 ]
