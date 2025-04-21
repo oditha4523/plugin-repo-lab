@@ -3,4 +3,9 @@
     "name": "Sample Plugin",
     "entry": "./plugins/sample-plugin/plugin.js"
   }
+  ,
+  {
+    "name": "oditha Plugin",
+    "entry": "./plugins/oditha-plugin/plugin.js"
+  }
 ]
