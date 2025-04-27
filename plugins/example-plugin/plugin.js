@@ -1,4 +1,5 @@
 module.exports.run = () => {
-    return "Hello from example Plugin!";
+    return "Hello from new example Plugin!";
+
   };
   
