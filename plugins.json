@@ -1,6 +1,7 @@
 [
   {
 
+
     "name": "Sample Plugin v2",
     "entry": "./plugins/sample-plugin/plugin.js",
     "version": "2.0.0"
@@ -9,5 +10,27 @@
   {
     "name": "example Plugin",
     "entry": "./plugins/example-plugin/plugin.js"
+
+    "name": "Sample Plugin",
+    "entry": "./plugins/sample-plugin/plugin.js"
+  },
+
+  {
+    "name": "Dinuka_Plugin",
+    "entry": "./plugins/Dinuka_plugin/plugin.js"
+  },
+
+  {
+    "name": "new_plugin",
+    "entry": "./plugins/new-plugin/plugin.js"
+  },
+
+  {
+    "name": "conflicting_plugin",
+    "entry": "./plugins/conflicting-plugin/plugin.js"
+  },
+  {
+    "name": "conflicting_plugin",
+    "entry": "./plugins/conflicting-plugin/plugin.js"
   }
 ]
