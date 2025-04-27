@@ -1,7 +1,8 @@
 [
   {
-    "name": "Sample Plugin",
-    "entry": "./plugins/sample-plugin/plugin.js"
+    "name": "Modified Sample Plugin",
+    "entry": "./plugins/sample-plugin/plugin.js",
+    "description": "This is a sample plugin for demonstration"
   },
   {
     "name": "example Plugin",
