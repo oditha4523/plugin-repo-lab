@@ -1,7 +1,8 @@
 [
   {
-    "name": "new Sample Plugin",
-    "entry": "./plugins/sample-plugin/plugin.js"
+    "name": "Sample Plugin v2",
+    "entry": "./plugins/sample-plugin/plugin.js",
+    "version": "2.0.0"
   },
   {
     "name": "example Plugin",
